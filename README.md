@@ -1,8 +1,17 @@
--  Hi, I’m @Mourex
--  I’m interested in studying and working with Front-end
--  I’m currently learning Web Development, Computer Science and Front-end
+*Olá sou Lucas Moura!* :rocket:
 
-<!---
-Mourex/Mourex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nos mundo dos games meu nome é Mourex. Decidi trazer o nome para outra paixão que tenho, o mundo da programação :computer:.
+
+Estou estudando as seguintes Linguagens:
+
+:books: HTML 
+
+:books: CSS
+
+:books: JAVA
+
+:books: JAVASCRIPT
+
+:books: PYTHON
+
+Iniciando o aprendizado com Banco de dados :card_index:.
